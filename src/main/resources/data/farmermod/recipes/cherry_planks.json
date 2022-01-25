@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmermod:cherry_log"
+    }
+  ],
+  "result": {
+    "item": "farmermod:cherry_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "farmermod:cherry_log",
+    "farmermod:cherry_wood",
+    "farmermod:stripped_cherry_log",
+    "farmermod:stripped_cherry_wood",
+    "farmermod:cherry_planks"
+  ]
+}

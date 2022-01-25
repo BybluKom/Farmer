@@ -1,0 +1,10 @@
+{
+  "morandi_save": {
+    "sounds": [
+      {
+        "name": "farmermod:morandi_save",
+        "stream": true
+      }
+    ]
+  }
+}

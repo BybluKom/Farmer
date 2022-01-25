@@ -1,0 +1,20 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern": [
+    "www",
+    "ppp",
+    "www"
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "w": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "farmermod:canvas",
+    "count": 1
+  }
+}

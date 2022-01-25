@@ -1,0 +1,23 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern": [
+    "www",
+    "sis",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:string"
+    },
+    "i": {
+      "item": "farmermod:magic_ingot"
+    },
+    "w": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "farmermod:weather",
+    "count": 1
+  }
+}

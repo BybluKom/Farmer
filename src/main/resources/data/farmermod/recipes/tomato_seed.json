@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "farmermod:tomato"
+    },
+    "B": {
+      "item": "farmermod:chisel"
+    }
+  },
+  "result": {
+    "item": "farmermod:tomato_seed",
+    "count": 1
+  }
+}

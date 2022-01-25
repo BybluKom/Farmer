@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model" : "farmermod:block/pesticides_ore" }
+  }
+}

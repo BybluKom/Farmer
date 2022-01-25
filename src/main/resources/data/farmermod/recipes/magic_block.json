@@ -1,0 +1,26 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern": [
+    "kkk",
+    "kwk",
+    "aea"
+  ],
+  "key": {
+    "w": {
+      "item": "farmermod:weather"
+    },
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    },
+    "k": {
+      "item": "farmermod:magic_ingot"
+    }
+  },
+  "result": {
+    "item": "farmermod:magic_block",
+    "count": 1
+  }
+}

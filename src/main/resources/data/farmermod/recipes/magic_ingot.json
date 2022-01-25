@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "farmermod:magic_ore"
+  },
+  "result": "farmermod:magic_ingot",
+  "experience": 1.5,
+  "cookingtime": 250
+}

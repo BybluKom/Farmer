@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ddd",
+    " c ",
+    " c "
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "minecraft:diamond"
+    },
+    "d":
+    {
+      "item": "farmermod:weather"
+    }
+  },
+  "result":
+  {
+    "item": "farmermod:weather_stick",
+    "count": 1
+  }
+}

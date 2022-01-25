@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "farmermod:block/cherry_log_top",
+    "side": "farmermod:block/stripped_cherry_log"
+  }
+}
